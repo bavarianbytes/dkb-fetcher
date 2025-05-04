@@ -1,0 +1,7 @@
+# deps
+dkb-robo
+
+# files
+.env
+*.log
+.DS_Store
